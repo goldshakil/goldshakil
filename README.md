@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on AWS Services and React
 - 🤔 I’m interested in 3D machine learning and NLP
 - 👯 I’m into reaseach and would love to collaborate on any Computer Science papers
-- 📫 How to reach me:
 - :diamonds: Fun fact: I can do card magic!
 
 

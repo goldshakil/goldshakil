@@ -4,6 +4,7 @@
 - 🤔 I’m interested in 3D machine learning and NLP
 - 👯 I’m into research and would love to collaborate on any Computer Science papers
 - :diamonds: Fun fact: I can do card magic!
+- :crown: Another fun fact: My name is the literal translation of the word Gold in Arabic (Dahab=ذهب)
 
 
 <div align="center">

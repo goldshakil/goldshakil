@@ -1,0 +1,44 @@
+name: Refresh work stats
+
+# Runs weekly + on-demand. Updates the README's work contribution count
+# and language percentages by querying GitHub's API as Dahab-Shakeel via
+# the DAHAB_PAT secret (PAT with repo + read:user scopes, SSO-authorized
+# for the sibelhealth org).
+
+on:
+  schedule:
+    - cron: '0 10 * * 0'   # every Sunday at 10:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Refresh README stats
+        env:
+          DAHAB_PAT: ${{ secrets.DAHAB_PAT }}
+        run: python .github/scripts/refresh-stats.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git add README.md
+            git commit -m "Auto-refresh work stats"
+            git push
+          else
+            echo "No changes — README already up to date."
+          fi

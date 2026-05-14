@@ -27,7 +27,9 @@ My day-to-day code lives in private Sibel Health repos, primarily:
 
 <div align="center">
 
+<!--START_CONTRIBS-->
 <img src="https://img.shields.io/badge/Contributions%20to%20private%20Sibel%20repos%20(last%20year)-705-61dafb?style=for-the-badge&logo=github&logoColor=white" alt="work contributions" />
+<!--END_CONTRIBS-->
 
 </div>
 
@@ -37,6 +39,7 @@ My day-to-day code lives in private Sibel Health repos, primarily:
 
 <div align="center">
 
+<!--START_LANGS-->
 <img src="https://img.shields.io/badge/Python-52%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 52%" />
 <img src="https://img.shields.io/badge/TypeScript-19%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 19%" />
 <img src="https://img.shields.io/badge/Java-8%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8%" />
@@ -45,12 +48,14 @@ My day-to-day code lives in private Sibel Health repos, primarily:
 <img src="https://img.shields.io/badge/Shell-4%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell 4%" />
 <img src="https://img.shields.io/badge/Vue-3%25-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3%" />
 <img src="https://img.shields.io/badge/Gherkin-3%25-5EBE3E?style=for-the-badge&logo=cucumber&logoColor=white" alt="Gherkin 3%" />
+<img src="https://img.shields.io/badge/HTML-1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 1%" />
+<br/>
 <img src="https://img.shields.io/badge/HCL-1%25-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="HCL 1%" />
-<img src="https://img.shields.io/badge/Rust-1%25-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust 1%" />
+<!--END_LANGS-->
 
 </div>
 
-<p align="center"><sub>Computed from <code>discovery-hub</code> + <code>tucana</code> code volume (GitHub Languages API).</sub></p>
+<p align="center"><sub>Auto-refreshed weekly from <code>discovery-hub</code> + <code>tucana</code> via the GitHub Languages API.</sub></p>
 
 ---
 

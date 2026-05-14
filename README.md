@@ -1,36 +1,60 @@
-## Hi there, I am Dahab! 👋
-My work github account is [HERE](https://github.com/Dahab-Shakeel)
+<h1 align="center">Hi, I'm Zuhaib 👋</h1>
+<p align="center">
+  <b>Cloud Engineer @ Sibel Health</b> · Seoul, South Korea<br/>
+  Building on AWS &amp; React · researching 3D ML and NLP on the side
+</p>
 
-- 🔭 I’m currently working on AWS and React
-- 🤔 I’m interested in 3D machine learning and NLP
-- 👯 I’m into research and would love to collaborate on any Computer Science papers
-- :diamonds: Fun fact: I can do card magic!
-- :crown: Another fun fact: My name is the literal translation of the word Gold in Arabic (Dahab=ذهب)
+---
 
+### About
+
+- 🎓 BSc Computer Science — **Sungkyunkwan University** (Seoul)
+- 🔭 Currently building cloud infrastructure and frontends at **Sibel Health**
+- 🧠 Research interests: **3D machine learning**, **NLP**, robotics
+- 🤝 Open to collaborating on Computer Science research — feel free to reach out
+- 🪙 *Dahab* (ذهب) means **gold** in Arabic — same meaning as my username
+- 🃏 Off-keyboard hobby: card magic
+
+### Where my code lives
+
+Most of my day-to-day code is in private repos under my work account, **[@Dahab-Shakeel](https://github.com/Dahab-Shakeel)** (Sibel Health). Side projects, research, and OSS contributions live here under **@goldshakil**.
+
+---
+
+### Personal stats — [@goldshakil](https://github.com/goldshakil)
 
 <div align="center">
-  
-[![Dahab's github stats](https://github-readme-stats.vercel.app/api?username=goldshakil&show_icons=true&theme=react&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goldshakil&theme=react" alt="profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goldshakil&theme=react" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goldshakil&theme=react" alt="most-used language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=goldshakil&theme=react" alt="contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=goldshakil&theme=react&utcOffset=9" alt="productive time" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=goldshakil&theme=react&hide_border=true" alt="contribution streak" />
 
 </div>
 
+### Work stats — [@Dahab-Shakeel](https://github.com/Dahab-Shakeel)
+
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldshakil&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dahab-Shakeel&theme=react" alt="work profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dahab-Shakeel&theme=react" alt="work contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dahab-Shakeel&theme=react&utcOffset=9" alt="work productive time" />
+
 </div>
 
-<!--
-**goldshakil/goldshakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><sub>Work account stats reflect only public contributions — the bulk of my Sibel work is in private repos.</sub></p>
 
-Here are some ideas to get you started:
+---
 
+### Reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal · [@goldshakil](https://github.com/goldshakil)
+- Work · [@Dahab-Shakeel](https://github.com/Dahab-Shakeel)

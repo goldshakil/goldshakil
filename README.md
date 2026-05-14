@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zuhaib 👋</h1>
+<h1 align="center">Hi, I'm Dahab 👋</h1>
 <h3 align="center">Director of Cloud Engineering @ Sibel Health</h3>
 <p align="center">
   Building healthcare IoT infrastructure on AWS<br/>
